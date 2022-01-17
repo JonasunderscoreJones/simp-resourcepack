@@ -131,4 +131,4 @@ The serverside resourcepack for SiMP
 ### Wither
 `wither.png`
 2x2 blocks
-![wither](https://user-images.githubusercontent.com/91549607/149812228-fd3ea2a5-0708-42dc-8edf-1af60e2d8453.png)
+![wither](https://github.com/J-onasJones/simp-resourcepack/blob/main/SiMP-resources/assets/minecraft/textures/painting/wither.png?raw=true)
