@@ -20,7 +20,7 @@ The serverside resourcepack for SiMP
 |-------|-------|--------|------|-------|-------|
 |`bust.png`|`match.png`|`skull_and_roses.png`|`stage.png`|`void.png`|`wither.png`|
 |![bust](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/bust.png)|![match](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/match.png)|![skull_and_roses](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/skull_and_roses.png)|![stage](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/stage.png)|![void](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/void.png)|![wither](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/wither.png)|
-|not taken|not taken|**don't touch**|not taken|not taken|**canyon_moon**|
+|**WILSOOON**|not taken|**don't touch**|not taken|not taken|not taken|
 ## 4x2 paintings:
 | Fighters |
 | --- |
