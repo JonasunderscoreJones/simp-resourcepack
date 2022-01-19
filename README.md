@@ -6,6 +6,7 @@ The serverside resourcepack for SiMP
 |-------|-------|--------|------|-------|-------|------------|
 |`alban.png`|`aztec.png`|`aztec2.png`|`bomb.png`|`kebab.png`|`plant.png`|`wastelands.png`|
 |![alban](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/alban.png)|![aztec](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/aztec.png)|![aztec2](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/aztec2.png)|![bomb](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/bomb.png)|![kebab](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/kebab.png)|![plant](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/plant.png)|![wasteland](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/wasteland.png)|
+|not taken|not taken|not taken|not taken|not taken|not taken|**taken**|
 
 # 2x1 / 1x2 paintings:
 
