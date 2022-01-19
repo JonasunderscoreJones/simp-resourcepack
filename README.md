@@ -94,7 +94,7 @@ The serverside resourcepack for SiMP
 ![sea](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/sea.png)
 
 ### Skeleton
-`skeleton`
+`skeleton.png`
 4x3 blocks
 ![skeleton](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/skeleton.png)
 
