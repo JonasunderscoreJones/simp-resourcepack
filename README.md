@@ -33,8 +33,10 @@ The serverside resourcepack for SiMP
 | --- | -- |
 |`donkey_kong.png`|`skeleton.png`|
 |![donkey_kong](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/donkey_kong.png)|![skeleton](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/skeleton.png)|
+|not taken|**cometa_lunare**|
 
 ## 4x4 paintings:
 | Burning Skull | Pigscene | Pointer |
 | --- | --- | --- |
 |![burning_skull](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/burning_skull.png)|![pigscene](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/pigscene.png)|![pointer](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/pointer.png)|
+|**Don't touch**|**cometa_lunare**|not taken|
