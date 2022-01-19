@@ -43,12 +43,12 @@ The serverside resourcepack for SiMP
 2x1 blocks
 ![creebet](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/creebet.png)
 
-### Donkey Kong
+### Donkey Kong - DO NOT TOUCH
 `donkey_kong.png`
 4x3 blocks
 ![donkey_kong](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/donkey_kong.png)
 
-### Fighters
+### Fighters - DO NOT TOUCH
 `fighters.png`
 4x2 blocks
 ![fighters](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/fighters.png)
@@ -58,7 +58,7 @@ The serverside resourcepack for SiMP
 1x2 blocks
 ![graham](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/graham.png)
 
-### kebab
+### kebab - DO NOT TOUCH
 `kebab.png`
 1x1 blocks
 ![kebab](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/kebab.png)
