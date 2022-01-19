@@ -22,68 +22,19 @@ The serverside resourcepack for SiMP
 |![bust](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/bust.png)|![match](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/match.png)|![skull_and_roses](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/skull_and_roses.png)|![stage](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/stage.png)|![void](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/void.png)|![wither](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/wither.png)|
 |not taken|not taken|**don't touch**|not taken|not taken|not taken|
 ## 4x2 paintings:
+| Fighters |
+| --- |
+|`fighters.png`|
+|![fighters](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/fighters.png)|
+|not taken|
 
 ## 4x3 paintings:
+|Donkey Kong| Skeleton|
+| --- | -- |
+|`donkey_kong.png`|`skeleton.png`|
+|![donkey_kong](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/donkey_kong.png)|![skeleton](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/skeleton.png)|
 
 ## 4x4 paintings:
-
-
-### Burning Skull (no touchy pls)
-`burning_skull.png`
-4x4 blocks
-![burning_skull](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/burning_skull.png)
-
-### Bust
-
-2x2 blocks
-![bust](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/bust.png)
-
-### Donkey Kong - DO NOT TOUCH
-`donkey_kong.png`
-4x3 blocks
-![donkey_kong](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/donkey_kong.png)
-
-### Fighters - DO NOT TOUCH
-`fighters.png`
-4x2 blocks
-![fighters](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/fighters.png)
-
-### match
-`match.png`
-2x2 blocks
-![match](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/match.png)
-
-### Pigscene
-`pigscene.png`
-4x4 blocks
-![pigscene](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/pigscene.png)
-
-### Pointer
-`pointer.png`
-4x4 blocks
-![pointer](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/pointer.png)
-
-### Skeleton
-`skeleton.png`
-4x3 blocks
-![skeleton](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/skeleton.png)
-
-### Skull and Roses (no touchy pls)
-`skull_and_roses.png`
-2x2 blocks
-![skull_and_roses](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/skull_and_roses.png)
-
-### Stage
-`stage.png`
-2x2 blocks
-![stage](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/stage.png)
-
-### Void
-`void.png`
-2x2 blocks
-![void](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/void.png)
-
-### Wither
-`wither.png`
-2x2 blocks
-![wither](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/wither.png)
+| Burning Skull | Pigscene | Pointer |
+| --- | --- | --- |
+|![burning_skull](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/burning_skull.png)|![pigscene](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/pigscene.png)|![pointer](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/pointer.png)|
