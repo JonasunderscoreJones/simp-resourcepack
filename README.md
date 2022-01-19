@@ -44,16 +44,6 @@ The serverside resourcepack for SiMP
 4x2 blocks
 ![fighters](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/fighters.png)
 
-### Graham
-`graham.png`
-1x2 blocks
-![graham](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/graham.png)
-
-### kebab - DO NOT TOUCH
-`kebab.png`
-1x1 blocks
-![kebab](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/kebab.png)
-
 ### match
 `match.png`
 2x2 blocks
@@ -68,11 +58,6 @@ The serverside resourcepack for SiMP
 `pointer.png`
 4x4 blocks
 ![pointer](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/pointer.png)
-
-### Sea
-`sea.png`
-2x1 blocks
-![sea](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/sea.png)
 
 ### Skeleton
 `skeleton.png`
@@ -89,20 +74,10 @@ The serverside resourcepack for SiMP
 2x2 blocks
 ![stage](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/stage.png)
 
-### Sunset (no touchy pls)
-`sunset.png`
-2x1 blocks
-![sunset](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/sunset.png)
-
 ### Void
 `void.png`
 2x2 blocks
 ![void](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/void.png)
-
-### Wanderer
-`wanderer.png`
-1x2 blocks
-![wanderer](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/wanderer.png)
 
 ### Wither
 `wither.png`
