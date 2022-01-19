@@ -1,7 +1,21 @@
 # simp-resourcepack
 The serverside resourcepack for SiMP
 
-# Images
+# 1x1 paintings:
+| Alban | Aztec | Aztec2 | Bomb | Kebab | Plant | Wastelands |
+|-------|-------|--------|------|-------|-------|------------|
+|`alban.png`|`aztec.png`|`aztec2.png`|`bomb.png`|`kebab.png`|`plant.png`|`wastelands.png`|
+|![alban](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/alban.png)|![aztec](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/aztec.png)|![aztec2](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/aztec2.png)|![bomb](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/bomb.png)|![kebab](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/kebab.png)|![plant](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/plant.png)|![wasteland](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/wasteland.png)|
+
+# 2x1 / 1x2 paintings:
+
+# 2x2 paintings:
+
+# 4x2 paintings:
+
+# 4x3 paintings:
+
+# 4x4 paintings:
 
 ### Alban
 `alban.png`
@@ -43,12 +57,12 @@ The serverside resourcepack for SiMP
 2x1 blocks
 ![creebet](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/creebet.png)
 
-### Donkey Kong
+### Donkey Kong - DO NOT TOUCH
 `donkey_kong.png`
 4x3 blocks
 ![donkey_kong](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/donkey_kong.png)
 
-### Fighters
+### Fighters - DO NOT TOUCH
 `fighters.png`
 4x2 blocks
 ![fighters](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/fighters.png)
@@ -58,7 +72,7 @@ The serverside resourcepack for SiMP
 1x2 blocks
 ![graham](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/graham.png)
 
-### kebab
+### kebab - DO NOT TOUCH
 `kebab.png`
 1x1 blocks
 ![kebab](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/kebab.png)
@@ -98,7 +112,7 @@ The serverside resourcepack for SiMP
 4x3 blocks
 ![skeleton](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/skeleton.png)
 
-### Skull and Roses
+### Skull and Roses (no touchy pls)
 `skull_and_roses.png`
 2x2 blocks
 ![skull_and_roses](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/skull_and_roses.png)
