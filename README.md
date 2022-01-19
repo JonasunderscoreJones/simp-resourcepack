@@ -98,7 +98,7 @@ The serverside resourcepack for SiMP
 4x3 blocks
 ![skeleton](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/skeleton.png)
 
-### Skull and Roses (no touchy pls)
+### Skull and Roses
 `skull_and_roses.png`
 2x2 blocks
 ![skull_and_roses](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/skull_and_roses.png)
