@@ -9,6 +9,11 @@ The serverside resourcepack for SiMP
 |not taken|not taken|not taken|not taken|not taken|not taken|**taken**|
 
 # 2x1 / 1x2 paintings:
+| Courbet | Creepet | Graham | Pool | Sea | Sunset | Wanderer |
+|-------|-------|--------|------|-------|-------|------------|
+|`courbet.png`|`creepet.png`|`graham.png`|`pool.png`|`sea.png`|`sunset.png`|`wanderer.png`|
+|![courbet](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/courbet.png)|![creebet](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/creebet.png)|![graham](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/graham.png)|![pool](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/pool.png)|![sea](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/sea.png)|![sunset](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/sunset.png)|![wanderer](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/wanderer.png)|
+|not taken|not taken|**taken**|not taken|not taken|not taken|not taken|
 
 # 2x2 paintings:
 
@@ -18,25 +23,6 @@ The serverside resourcepack for SiMP
 
 # 4x4 paintings:
 
-### Alban
-`alban.png`
-1x1 blocks
-![alban](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/alban.png)
-
-### Aztec
-`aztec.png`
-1x1 blocks
-![aztec](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/aztec.png)
-
-### Aztec2
-`aztec2.png`
-1x1 blocks
-![aztec2](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/aztec2.png)
-
-### Bomb
-`bomb.png`
-1x1 blocks
-![bomb](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/bomb.png)
 
 ### Burning Skull (no touchy pls)
 `burning_skull.png`
@@ -47,16 +33,6 @@ The serverside resourcepack for SiMP
 `bust.png`
 2x2 blocks
 ![bust](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/bust.png)
-
-### Courbet
-`courbet.png`
-2x1 blocks
-![courbet](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/courbet.png)
-
-### Creepet
-`creepet.png`
-2x1 blocks
-![creebet](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/creebet.png)
 
 ### Donkey Kong - DO NOT TOUCH
 `donkey_kong.png`
@@ -88,20 +64,10 @@ The serverside resourcepack for SiMP
 4x4 blocks
 ![pigscene](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/pigscene.png)
 
-### Plant
-`plant.png`
-1x1 blocks
-![plant](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/plant.png)
-
 ### Pointer
 `pointer.png`
 4x4 blocks
 ![pointer](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/pointer.png)
-
-### Pool
-`pool.png`
-2x1 blocks
-![pool](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/pool.png)
 
 ### Sea
 `sea.png`
@@ -137,11 +103,6 @@ The serverside resourcepack for SiMP
 `wanderer.png`
 1x2 blocks
 ![wanderer](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/wanderer.png)
-
-### Wastelands
-`wastelands.png`
-1x1 blocks
-![wasteland](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/wasteland.png)
 
 ### Wither
 `wither.png`
