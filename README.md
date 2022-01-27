@@ -13,20 +13,20 @@ The serverside resourcepack for SiMP
 |-------|-------|--------|------|-------|-------|------------|
 |`courbet.png`|`creepet.png`|`graham.png`|`pool.png`|`sea.png`|`sunset.png`|`wanderer.png`|
 |![courbet](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/courbet.png)|![creebet](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/creebet.png)|![graham](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/graham.png)|![pool](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/pool.png)|![sea](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/sea.png)|![sunset](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/sunset.png)|![wanderer](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/wanderer.png)|
-|not taken|not taken|**cometa_lunare**|not taken|not taken|not taken|**WILSOOON**|
+|not taken|don't touch|**cometa_lunare**|not taken|not taken|don't touch|**WILSOOON**|
 
 ## 2x2 paintings:
 | Bust | Match | Skull and Roses | Stage | Void | Wither |
 |-------|-------|--------|------|-------|-------|
 |`bust.png`|`match.png`|`skull_and_roses.png`|`stage.png`|`void.png`|`wither.png`|
 |![bust](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/bust.png)|![match](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/match.png)|![skull_and_roses](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/skull_and_roses.png)|![stage](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/stage.png)|![void](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/void.png)|![wither](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/wither.png)|
-|**WILSOOON**|not taken|**don't touch**|not taken|not taken|**canyon_moon**|
+|**WILSOOON**|dont touch|not taken|not taken|not taken|**canyon_moon**|
 ## 4x2 paintings:
 | Fighters |
 | --- |
 |`fighters.png`|
 |![fighters](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/fighters.png)|
-|not taken|
+|don't touch|
 
 ## 4x3 paintings:
 |Donkey Kong| Skeleton|
@@ -39,4 +39,4 @@ The serverside resourcepack for SiMP
 | Burning Skull | Pigscene | Pointer |
 | --- | --- | --- |
 |![burning_skull](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/burning_skull.png)|![pigscene](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/pigscene.png)|![pointer](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/pointer.png)|
-|**Don't touch**|**cometa_lunare**|not taken|
+|**Don't touch**|**cometa_lunare**|don't touch|
