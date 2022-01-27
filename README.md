@@ -39,4 +39,4 @@ The serverside resourcepack for SiMP
 | Burning Skull | Pigscene | Pointer |
 | --- | --- | --- |
 |![burning_skull](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/burning_skull.png)|![pigscene](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/pigscene.png)|![pointer](https://github.com/J-onasJones/simp-resourcepack/raw/main/SiMP-resources/assets/minecraft/textures/painting/pointer.png)|
-|**Don't touch**|**cometa_lunare**|cometa, canyon, ztereo|
+|**Don't touch**|**cometa_lunare**|**cometa, canyon, ztereo**|
