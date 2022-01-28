@@ -29,5 +29,5 @@ jobs:
       # upload the artifacts
       - uses: actions/upload-artifact@v2
         with:
-          name: SiMP-resources.zip
+          name: SiMP-resources
           path: SiMP-resources.zip
