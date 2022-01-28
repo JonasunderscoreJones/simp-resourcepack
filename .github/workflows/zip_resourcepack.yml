@@ -22,7 +22,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       # zip the file
-      - uses: papeloto/action-zip@v1
+      - uses: vimtor/action-zip@v1
         with:
           files: SiMP-resources/
           dest: SiMP-resources.zip
