@@ -22,7 +22,12 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       # zip the file
-      - uses: papeloto/action-zip@v1
+      - uses: vimtor/action-zip@v1
         with:
           files: SiMP-resources/
           dest: SiMP-resources.zip
+      # upload the artifacts
+      - uses: actions/upload-artifact@v2
+        with:
+          name: SiMP-resources
+          path: SiMP-resources.zip
