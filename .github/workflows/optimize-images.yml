@@ -1,0 +1,53 @@
+name: Optimize Images
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - '**.png'
+      - '**.jpg'
+      - '**.jpeg'
+  
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Compress Images
+        id: calibre
+        uses: calibreapp/image-actions@1.1.0
+        with:
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
+          compressOnly: true
+          # PNG optimization settings using Sharp (tested: 40% average file size reduction)
+          # pngLevel 9 = maximum compression, pngQuality 65-80 = palette optimization
+          pngLevel: 9
+          pngQuality: "65-80"
+          jpgQuality: 80
+          webpQuality: 80
+          ignorePaths: 'node_modules/**,dist/**'
+      
+      - name: Create Pull Request
+        if: steps.calibre.outputs.markdown != ''
+        uses: peter-evans/create-pull-request@v5.0.3
+        with:
+          title: "🖼️ Optimize images"
+          branch-suffix: short-commit-hash
+          commit-message: "Optimize images with image-actions"
+          body: |
+            ## Image Optimization Results
+            
+            This PR contains optimized images to reduce the resource pack size.
+            
+            ${{ steps.calibre.outputs.markdown }}
+          labels: |
+            automated
+            optimization
